@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stories with data
-permalink: https://octocat.github.io/datastories
+permalink: /datastories
 ---
 
-Sub page
+A great story...

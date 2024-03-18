@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Laus Website
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
