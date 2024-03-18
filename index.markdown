@@ -12,6 +12,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 
+Here is a [Link to my first post](./_posts/2024-03-12-myfirstpost.md).
+
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
