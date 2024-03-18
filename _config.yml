@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: [Laus Website]
+title: Laus Website
 #email: s193821@dtu.dk
-description: [Welcome. This is my first website made with GitHub pages and Jekyll.]
+description: Welcome. This is my first website made with GitHub pages and Jekyll.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -31,7 +31,9 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-   
+
+# Adding logo 
+logo: /assets/img/logo.png
 
 # Exclude from processing.
 # The following items will not be processed, by default.
