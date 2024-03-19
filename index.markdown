@@ -6,6 +6,8 @@ layout: default
 title: Laus Website
 ---
 
+# Week 7
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./subpage1.md).
@@ -16,8 +18,6 @@ Here is a [Link to my first post](./_posts/2024-03-12-myfirstpost.md).
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
-
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
@@ -25,3 +25,19 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
+
+# Week 8
+This is the outcome of the exercises of Week 8
+
+## Time-series figure
+
+
+
+## Map
+
+
+## Interactive visualization
+
+Interactive plot:
+
+{% include_relative ./week8_plots/Week6_interactive_plot.html %}
