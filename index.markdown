@@ -39,3 +39,12 @@ This is the outcome of the exercises of Week 8
 ## Interactive visualization
 
 Interactive plot:
+
+<iframe src="/./_contents/Week6_interactive_plot.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
