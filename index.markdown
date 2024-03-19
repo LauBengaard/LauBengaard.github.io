@@ -38,6 +38,4 @@ This is the outcome of the exercises of Week 8
 
 ## Interactive visualization
 
-Interactive plot:s
-
-{% include_relative ./week8_plots/Week6_interactive_plot.html %}
+Interactive plot:
