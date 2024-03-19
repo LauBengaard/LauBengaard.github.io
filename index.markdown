@@ -38,5 +38,11 @@ This is the outcome of the exercises of Week 8
 
 ## Interactive visualization
 
-[Link to interactive visualization](/_contents/interactive_visualization.md).
+dfdf
+
+[Link to interactive visualization](./interactivevisualization.md).
+
+dfdf
+
+[Link to subpage2](./subpage2.md).
 
