@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stories with data
-permalink: /datastories
+permalink: /datastories2
 ---
 
-A great story...
+Another great story...

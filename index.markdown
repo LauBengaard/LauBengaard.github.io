@@ -44,5 +44,5 @@ dfdf
 
 dfdf
 
-[Link to subpage2](./subpage2.md).
+[Link to subpage2](./_contents/subpage2.md).
 
