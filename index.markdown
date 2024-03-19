@@ -1,7 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+# Run local: bundle exec jekyll serve
 layout: default
 title: Laus Website
 ---
@@ -38,14 +38,5 @@ This is the outcome of the exercises of Week 8
 
 ## Interactive visualization
 
-Interactive plot:
-
-<iframe src="Week6_interactive_plot.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="100%"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+[Link to interactive visualization](/_contents/interactive_visualization.md).
 
