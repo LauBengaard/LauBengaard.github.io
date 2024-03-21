@@ -55,8 +55,9 @@ a:hover small {
   color:#777;
 }
 
+// Wrapper
 .wrapper {
-  width:860px;
+  width:90%;//860px;
   margin:0 auto;
 }
 
@@ -118,9 +119,10 @@ kbd {
   vertical-align: middle;
 }
 
+// Left container
 header {
-  width:270px;
-  float:left;
+  width:15%;
+  float:left; 
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
@@ -185,8 +187,9 @@ strong {
   color:#222;
 }
 
+// Right container
 section {
-  width:500px;
+  width:75%;
   float:right;
   padding-bottom:50px;
 }
