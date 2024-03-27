@@ -8,44 +8,6 @@ title: Laus Website
 
 {% include_relative new.md %}
 
-# Week 7
+<!-- {% include_relative week7.md %} -->
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./subpage1.md).
-
-There should be whitespace between paragraphs.
-
-Here is a [Link to my first post](./_posts/2024-03-12-myfirstpost.md).
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-# Week 8
-This is the outcome of the exercises of Week 8
-
-## Time-series figure
-
-## Map
-
-## Interactive visualization
-
-Interactive plot text bla bla
-
-<iframe src="Week6_interactive_plot.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="650"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
-
-more text
+<!-- {% include_relative week8.md %} -->
