@@ -6,6 +6,8 @@ layout: default
 title: Laus Website
 ---
 
+{% include new.md %}
+
 # Week 7
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -31,10 +33,7 @@ This is the outcome of the exercises of Week 8
 
 ## Time-series figure
 
-
-
 ## Map
-
 
 ## Interactive visualization
 
