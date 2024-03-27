@@ -6,7 +6,7 @@ layout: default
 title: Laus Website
 ---
 
-{% include new.md %}
+{% include_relative new.md %}
 
 # Week 7
 
