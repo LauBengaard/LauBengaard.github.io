@@ -29,7 +29,7 @@ The figure below shows how many incidents occur of each crime type on each day o
 *   Work from home on Fridays! This is the day of the week where you are most likely to get a visit from a burglar. The same goes for having your car stolen!
 *   Lastly, if your idea of a good time is being surrounded by overly drunk people, Saturdays and Sundays are your time to leave the house.
 
-We hope these tips where helpfull, feel free to draw further conclusions from the figure below!
+We hope these tips where helpful, feel free to draw further conclusions from the figure below!
 
 
 
@@ -38,6 +38,20 @@ style="float: center; margin: 0 2rem 0 0;" width="100%" }
 
 
 # Where to go or to not go?
+
+Now, you might wonder which route home from the bar you're heading to next Friday would be the safest? Or which area you should stay in for your first trip to San Fransisco? Is it even necessary to do the planning and avoid areas you are not familiar with? 
+
+Looking into the last question first, San Fransisco had a crime rate of 715 incidents per 100,000 citizens in 2017, which was 181% greater than the average of US and 158% greater than the average of California, so the city definitely has a considerable number of crimes. 
+
+Though, when looking into the different areas of San Fransisco, some areas are considerable more safe than others, so there is light ahead if you plan to move safely around in the city of Silicon Valley. The map below shows the density of crimes related to prostitution in the city for each day in the week: red areas have a higher density of crimes and areas with no coloring has no recorded crimes on that day. Some of the key takeaways from the plot is listed below:
+
+*   Areas in and around Tendorloin, Mission and Chinatown seems to have a high density of crimes related to prostitution in every day of the week.
+*   The safest day to visit SoMa, the home of great internet and software companies, is Sunday. 
+*   If you are going for a taste of the famous seafood in Fisherman's Wharf avoid weekdays.
+*   Twin Peaks seems to not have any crimes related to prostitution. 
+
+Feel free to further go into details by going choosing a specific weekday (1=Monday, 2=Tuesday etc.) and adjusting the zoom on the map.
+
 
 <iframe src="/assets/html/HeatMapWithTime_prostitution.html"
     sandbox="allow-same-origin allow-scripts"
