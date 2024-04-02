@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Laus Website
+title: Website of Group 61
 #email: s193821@dtu.dk
-description: Welcome. This is my first website made with GitHub pages and Jekyll.
+description: Welcome. This is the website for Assignment 2 of the DTU course 02806 Social Data Analysis and Visualization.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
