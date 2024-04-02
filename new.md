@@ -41,7 +41,7 @@ style="float: center; margin: 0 2rem 0 0;" width="100%" }
 
 Now, you might wonder which route home from the bar you're heading to next Friday would be the safest? Or which area you should stay in for your first trip to San Fransisco? Is it even necessary to do the planning and avoid areas you are not familiar with? 
 
-Looking into the last question first, San Fransisco had a crime rate of 715 incidents per 100,000 citizens in 2017, which was 181% greater than the average of US and 158% greater than the average of California, so the city definitely has a considerable number of crimes. 
+Looking into the last question first, San Fransisco had a crime rate of 715 incidents per 100,000 citizens in 2017, which was 181% greater than the average of US and 158% greater than the average of California[^1], so the city definitely has a considerable number of crimes. 
 
 Though, when looking into the different areas of San Fransisco, some areas are considerable more safe than others, so there is light ahead if you plan to move safely around in the city of Silicon Valley. The map below shows the density of crimes related to prostitution in the city for each day in the week: red areas have a higher density of crimes and areas with no coloring has no recorded crimes on that day. Some of the key takeaways from the plot is listed below:
 
@@ -85,3 +85,6 @@ Lastly, you are actually slightly more likely to have your vehicle stolen than y
     frameborder="0">
 </iframe>
 
+
+
+[^1]: Macrotrends, [San Francisco CA Crime Rate 1999-2018,](https://www.macrotrends.net/global-metrics/cities/us/ca/san-francisco/crime-rate-statistics).
