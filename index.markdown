@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 # Run local: bundle exec jekyll serve
 layout: default
-title: Laus Website
+title: Home
 ---
 
 {% include_relative new.md %}
