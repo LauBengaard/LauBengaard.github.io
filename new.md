@@ -37,7 +37,7 @@ We hope these tips where helpful, feel free to draw further conclusions from the
 style="float: center; margin: 0 2rem 0 0;" width="100%" }
 
 
-# Where to go or to not go?
+# Where to go or not to go?
 
 Now, you might wonder which route home from the bar you're heading to next Friday would be the safest? Or which area you should stay in for your first trip to San Fransisco? Is it even necessary to do the planning and avoid areas you are not familiar with? 
 
