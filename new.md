@@ -87,4 +87,4 @@ Lastly, you are actually slightly more likely to have your vehicle stolen than y
 
 
 # References
-[^1]: Macrotrends, Accessed:28-03-2024, [San Francisco CA Crime Rate 1999-2018,](https://www.macrotrends.net/global-metrics/cities/us/ca/san-francisco/crime-rate-statistics).
+[^1]: Macrotrends, [_San Francisco CA Crime Rate 1999-2018_](https://www.macrotrends.net/global-metrics/cities/us/ca/san-francisco/crime-rate-statistics), Accessed:28-03-2024.
