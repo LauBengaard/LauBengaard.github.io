@@ -16,7 +16,8 @@ Crashes involving alcohol or druges are primarily occuring during the night time
     height="600"
     scrolling="no"
     seamless="seamless"
-    frameborder="0">
+    frameborder="0"
+    style="max-width: 100%;">
 </iframe>
 
 ## 3.1 Alcohol and drugs
@@ -24,11 +25,12 @@ Crashes involving alcohol or druges are primarily occuring during the night time
 Knowing that alcohol and drugs are a factor in crashes, we wanted to investigate if the involvement of alcohol or drugs in general increases the likelyhood of a severe injuries or deaths.
 Below we se...
 
-<iframe src="contents/correlation_plot_severe_vs_alco.html"
+<iframe src="contents/correlation_plot_severe_vs_alco_new.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="600"
     scrolling="no"
     seamless="seamless"
-    frameborder="0">
+    frameborder="0"
+    style="max-width: 100%;">
 </iframe>
