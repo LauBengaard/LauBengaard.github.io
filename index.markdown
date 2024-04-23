@@ -6,10 +6,16 @@ layout: default
 title: Home
 ---
 
+{% include_relative _contents/introduction.md %}
+
+{% include_relative _contents/section1.md %}
+
+
+
+<!-- Old files (Not included)>
+
 <!-- {% include_relative new.md %} -->
 
 <!-- {% include_relative week7.md %} -->
 
 <!-- {% include_relative week8.md %} -->
-
-{% include_relative new.md %}
