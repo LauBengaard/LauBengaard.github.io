@@ -8,8 +8,7 @@ da
 ds
 a
 
-<!-->
-<iframe src="/plots/Tempe_with_boundaries.html"
+<iframe src="contents/Tempe_with_boundaries.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="600"
@@ -17,7 +16,6 @@ a
     seamless="seamless"
     frameborder="0">
 </iframe>
-<!-->
 
 sa
 d

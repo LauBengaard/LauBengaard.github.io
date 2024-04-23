@@ -6,9 +6,13 @@ layout: default
 title: Home
 ---
 
-{% include_relative _contents/introduction.md %}
+{% include_relative section0.md %}
 
-{% include_relative _contents/section1.md %}
+{% include_relative section1.md %}
+
+{% include_relative section2.md %}
+
+{% include_relative section3.md %}
 
 
 
