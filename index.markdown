@@ -6,8 +6,10 @@ layout: default
 title: Home
 ---
 
-{% include_relative new.md %}
+<!-- {% include_relative new.md %} -->
 
 <!-- {% include_relative week7.md %} -->
 
 <!-- {% include_relative week8.md %} -->
+
+{% include_relative new.md %}
