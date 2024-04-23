@@ -2,7 +2,7 @@
 
 dsmfksd
 
-<iframe src="contents/correlation_plot_severe_vs_alcohol.html"
+<iframe src="contents/correlation_plot_severe_vs_alco.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="600"
