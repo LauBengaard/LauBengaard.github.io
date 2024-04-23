@@ -1,11 +1,11 @@
-# Calender plot
+# When do accidents happen?
 
 Calender plot
 
 
 <iframe src="contents/interactive-calendar-plot.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="60%"
     height="600"
     scrolling="no"
     seamless="seamless"
