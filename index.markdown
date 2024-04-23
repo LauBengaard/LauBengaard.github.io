@@ -13,13 +13,3 @@ title: Home
 {% include_relative section2.md %}
 
 {% include_relative section3.md %}
-
-
-
-<!-- Old files (Not included)>
-
-<!-- {% include_relative new.md %} -->
-
-<!-- {% include_relative week7.md %} -->
-
-<!-- {% include_relative week8.md %} -->
