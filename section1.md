@@ -1,6 +1,10 @@
-# Where do accidents happen?
+# 2 Where do accidents happen?
 
 Heat map
+
+Changes over time
+
+(histogram corona)
 
 
 <iframe src="contents/heatmap-video-plot.html"
