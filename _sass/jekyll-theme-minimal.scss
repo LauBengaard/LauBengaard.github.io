@@ -119,6 +119,22 @@ kbd {
   vertical-align: middle;
 }
 
+// 
+.plot-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 75%; /* This sets the aspect ratio */
+  overflow: hidden;
+
+  iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+  }
+}
+
 // Left container
 header {
   width:15%;
