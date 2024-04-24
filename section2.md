@@ -29,7 +29,6 @@ From the morning and throughout the day, a clear positive correlation is seen fr
 
 <iframe src="contents/correlation_plot_severe_vs_alco_new.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
     height="400"
     scrolling="no"
     seamless="seamless"
