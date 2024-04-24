@@ -1,4 +1,4 @@
-# 3 When do accidents happen?
+# 3 When do accidents occur?
 
 For both the police force as well as citizens of Tempe, it is valuable to know _when_ accidents happen. Toggle between the different calendar plots below to see when different types of accidents happen.
 
@@ -22,10 +22,10 @@ Crashes involving alcohol or drugs primarily occur during nighttime. Here, almos
 
 ## 3.1 Alcohol and drugs
 
-Now knowing that both alcohol and drugs impaired crashes as well as severe injury crashes both primarily occurs at night, it would be interesting to investigate if the involvement of alcohol or drugs in general increases the likelihood of severe injuries or deaths.
-Below we see the correlation between all severe injury crashes (normalized) and the number of crashes with drug and/or alcohol involvement. As all week days exhibit a similar trend in the _Alcohol/drug impaired accidents_ plot above, the correlation plot below pools all days of the week and simply considers the correlation over the 24 hour in a day. Next to the correlation plot, the mean daily distribution of all crashes are shown. This distribution is what the number of severe injury crashes is normalized by.
+Now, knowing that both alcohol and drug-impaired crashes, as well as severe injury crashes, primarily occur at night, it would be interesting to investigate if the involvement of alcohol or drugs, in general, increases the likelihood of severe injuries or deaths. 
+Below, we see the correlation between all severe injury crashes (normalized) and the number of crashes with drug and/or alcohol involvement. As all weekdays exhibit a similar trend in the "Alcohol/drug-impaired accidents" plot above, the correlation plot below pools all days of the week and simply considers the correlation over the 24 hours in a day. Next to the correlation plot, the mean daily distribution of all crashes is shown. This distribution is what the number of severe injury crashes is normalized by.
 
-From the morning and troughout the day, a clear positive correlation is seen from the best fit straight line (linear regression). However, when considering the value of R^2, it is apparant that the fit of the linear regression model is only moderate. This means that the number of crashes involving alcohol or drugs only moderately influences the normalized number of severe injury crashes. As many other hourly-dependent factors such as: light conditions, road conditions, traffic density, driver allertness, etc., also influence the normalized number of severe injury crashes, a 'moderate fit at best' is the expected outcome of a simple linear regression model.
+From the morning and throughout the day, a clear positive correlation is seen from the best-fit straight line (linear regression). However, when considering the value of R^2, it is apparent that the fit of the linear regression model is only moderate. This means that the number of crashes involving alcohol or drugs only moderately influences the normalized number of severe injury crashes. As many other hourly-dependent factors such as light conditions, road conditions, traffic density, driver alertness, etc., also influence the normalized number of severe injury crashes, a "moderate fit at best" is the expected outcome of a simple linear regression model.
 
 <iframe src="contents/correlation_plot_severe_vs_alco_new.html"
     sandbox="allow-same-origin allow-scripts"
@@ -36,3 +36,4 @@ From the morning and troughout the day, a clear positive correlation is seen fro
     frameborder="0"
     style="max-width: 100%;">
 </iframe>
+
