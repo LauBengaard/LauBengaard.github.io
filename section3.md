@@ -1,13 +1,16 @@
-# Alcohol and drugs
+# 4 What causes accidents
 
-dsmfksd
+Female/ male
 
-<iframe src="contents/correlation_plot_severe_vs_alco.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="600"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+Age
+
+Most common violation
+
+Intersection type or 'straight'
+
+road condition / light
+
+
+
+
 

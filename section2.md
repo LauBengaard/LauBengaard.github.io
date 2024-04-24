@@ -13,7 +13,7 @@ Crashes involving alcohol or drugs primarily occur during nighttime. Here, almos
 <iframe src="contents/interactive-calendar-plot.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="600"
+    height="400"
     scrolling="no"
     seamless="seamless"
     frameborder="0"
