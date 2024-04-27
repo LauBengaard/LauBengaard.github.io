@@ -18,7 +18,7 @@ For those not familiar with Tempe, below is a plot of its borders and its four z
 <div class="iframe-container">
     <iframe src="contents/tempe_globus.html"
         sandbox="allow-same-origin allow-scripts"
-        width="50%"
+        width="100%"
         height="400"
         scrolling="no"
         seamless="seamless"
