@@ -20,7 +20,14 @@ First, let's take a look at where crashes happen. Pictured below is an animated 
 
 To look into whether or not Vision Zero already has managed to bring traffic crashes down since its launch in 2019, we consider the number of crashes occurring each year:
 
-(PLOT HERE)
+<iframe src="contents/accidents_over_time.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="600"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
 
 We see a clear drop in accidents in 2020, but then a steady increase in the two years following. This suggests that the trend seen is due to Covid-19 rather than the City of Tempe successfully improving the traffic infrastructure and regulations.
 
