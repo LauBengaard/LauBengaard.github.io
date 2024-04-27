@@ -21,10 +21,13 @@
 title: Website GR61
 #email: s193821@dtu.dk
 description: Welcome. This is the website for Assignment 2 of the DTU course 02806 Social Data Analysis and Visualization.
+
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  LauBengaard
+
+baseurl: ""
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
