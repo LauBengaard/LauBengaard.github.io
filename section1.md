@@ -23,7 +23,7 @@ To look into whether or not Vision Zero already has managed to bring traffic cra
 <iframe src="contents/accidents_over_time.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="600"
+    height="400"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
