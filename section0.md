@@ -16,7 +16,7 @@ For those not familiar with Tempe, below is a plot of its borders and its four z
 
 <iframe src="contents/Tempe_with_boundaries.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="50%"
     height="600"
     scrolling="no"
     seamless="seamless"
