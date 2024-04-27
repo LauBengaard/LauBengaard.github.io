@@ -14,12 +14,24 @@ This page is dedicated to aiding Vision Zero by providing new analyses and insig
 
 For those not familiar with Tempe, below is a plot of its borders and its four zip code areas:
 
-<iframe src="contents/Tempe_with_boundaries.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="50%"
-    height="600"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+
+<div class="iframe-container">
+    <iframe src="contents/Tempe_with_boundaries.html"
+        sandbox="allow-same-origin allow-scripts"
+        width="50%"
+        height="500"
+        scrolling="no"
+        seamless="seamless"
+        frameborder="0">
+    </iframe>
+    <iframe src="contents/tempe_globus.html"
+        sandbox="allow-same-origin allow-scripts"
+        width="50%"
+        height="500"
+        scrolling="no"
+        seamless="seamless"
+        frameborder="0">
+    </iframe>
+</div>
+
 
