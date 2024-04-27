@@ -16,22 +16,22 @@ For those not familiar with Tempe, below is a plot of its borders and its four z
 
 
 <div class="iframe-container">
-    <iframe src="contents/Tempe_with_boundaries.html"
-        sandbox="allow-same-origin allow-scripts"
-        width="50%"
-        height="500"
-        scrolling="no"
-        seamless="seamless"
-        frameborder="0">
-    </iframe>
     <iframe src="contents/tempe_globus.html"
         sandbox="allow-same-origin allow-scripts"
         width="50%"
-        height="500"
+        height="400"
         scrolling="no"
         seamless="seamless"
         frameborder="0">
     </iframe>
+    <iframe src="contents/Tempe_with_boundaries.html"
+        sandbox="allow-same-origin allow-scripts"
+        width="50%"
+        height="400"
+        scrolling="no"
+        seamless="seamless"
+        frameborder="0">
+    </iframe> 
 </div>
 
 
