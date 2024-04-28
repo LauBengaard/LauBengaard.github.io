@@ -16,4 +16,4 @@ title: Home
 
 
 ***
-[Link to Assignment 2](/_posts/new.md).
+[Link to Assignment 2](./new.html).
