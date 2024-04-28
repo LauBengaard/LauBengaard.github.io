@@ -16,5 +16,5 @@ title: Home
 
 
 ***
-Other publications from the authors:<br/>
+**Check out other publications from the authors**<br/>
 [Assignment 2](./new.html)
