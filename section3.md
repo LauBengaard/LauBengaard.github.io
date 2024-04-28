@@ -7,7 +7,7 @@ Female/ male
 
 Age
 
-### 4.2 Most common violation
+### 4.2 Most common violations
 
 The top six violation types when considering accidents in the time period of 2012-2022 are:
 1. Speed To Fast For Conditions
@@ -30,7 +30,7 @@ As the list above shows, 'Unknown' is the fourth most common violation type, so 
     frameborder="0">
 </iframe>
 
-### 4.3 The Influence of External Conditions
+### 4.3 The influence of external conditions
 Intersection type or 'straight'
 
 road condition / light
