@@ -16,4 +16,5 @@ title: Home
 
 
 ***
-[Link to Assignment 2](./new.html).
+Other publications from the authors:<br/>
+[Assignment 2](./new.html)

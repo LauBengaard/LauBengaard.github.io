@@ -4,8 +4,9 @@
 # Run local: bundle exec jekyll serve
 layout: default
 ---
+# Assignment 2
 
-# Introduction
+## Introduction
 
 In this project, we delve into crime data from the San Francisco Police Department to uncover meaningful trends. The data spans from 2003 to 2017 and consists of just over 2 million incident reports. Each incident is associated with thirty-five attributes, including crime category, date and time, location (longitude, latitude), police district, and a crime description.
 
@@ -25,7 +26,7 @@ We aspire that our findings can assist the citizens of San Francisco and tourist
 
 * * *
 
-# When to be aware?
+## When to be aware?
 
 Living in a big city, one must constantly be alert. While navigating the city, one must be aware of traffic, keeping one's belongings safe, worrying if we really did lock the door at home, or considering just how many drinks we can get away with having during happy hour and still drive home. It can be stressful worrying about all of these things all the time, so we decided to look into each of the focus crimes so that the citizens of San Francisco can worry about the right things at the right time—or simply do something to combat them.
 
@@ -44,7 +45,7 @@ We hope these tips where helpful, feel free to draw further conclusions from the
 style="float: center; margin: 0 2rem 0 0;" width="100%" }
 
 
-# Where to go or not to go?
+## Where to go or not to go?
 
 Now, you might wonder which route home from the bar you're heading to next Friday would be the safest? Or which area you should stay in for your first trip to San Fransisco? Is it even necessary to do the planning and avoid areas you are not familiar with? 
 
@@ -69,7 +70,7 @@ Feel free to further go into details by going choosing a specific weekday (1=Mon
     frameborder="0">
 </iframe>
 
-# Which crimes should you actually fear?
+## Which crimes should you actually fear?
 
 We all have irrational fears that consume unnecessary energy every day. We're here to show you which crimes you can safely ignore and which ones you should actually worry about.
 
@@ -93,5 +94,5 @@ Lastly, you are actually slightly more likely to have your vehicle stolen than y
 </iframe>
 
 
-# References
+## References
 [^1]: Macrotrends, [_San Francisco CA Crime Rate 1999-2018_](https://www.macrotrends.net/global-metrics/cities/us/ca/san-francisco/crime-rate-statistics), Accessed:28-03-2024.

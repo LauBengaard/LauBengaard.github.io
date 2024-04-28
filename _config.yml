@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Website GR61
+title: Tempes Vision Zero
 #email: s193821@dtu.dk
-description: Welcome. This is the website for Assignment 2 of the DTU course 02806 Social Data Analysis and Visualization.
+description: Welcome. This is the website of Group 61 for the DTU course 02806 Social Data Analysis and Visualization.
 
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
