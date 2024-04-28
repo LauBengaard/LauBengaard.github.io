@@ -13,3 +13,7 @@ title: Home
 {% include_relative section2.md %}
 
 {% include_relative section3.md %}
+
+
+***
+[Link to Assignment 2](/_posts/new.md).
