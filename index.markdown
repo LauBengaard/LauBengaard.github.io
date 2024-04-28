@@ -14,7 +14,6 @@ title: Home
 
 {% include_relative section3.md %}
 
-
 ***
 **Check out other publications from the authors**<br/>
 [Assignment 2](./new.html)
