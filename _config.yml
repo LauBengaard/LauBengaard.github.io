@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Vision Zero
+title: An analysis of
 #email: s193821@dtu.dk
 description: Welcome. This is the website of Group 61 for the DTU course 02806 Social Data Analysis and Visualization.
 
@@ -36,7 +36,7 @@ plugins:
   - jekyll-remote-theme
 
 # Adding logo 
-logo: /assets/img/logo.png
+logo: /assets/img/Vision_zero_tempe.png
 
 # Exclude from processing.
 # The following items will not be processed, by default.
