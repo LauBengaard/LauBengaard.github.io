@@ -21,8 +21,7 @@ road condition / light
 
 
 ***
-[Link to Assignment 2](/new.md).
 
+[Link to Assignment 2](new.md).
 
-
-
+hej
