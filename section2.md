@@ -35,3 +35,32 @@ From the morning and throughout the day, a clear positive correlation is seen fr
 </style>
 
 <img src="contents/correlation_plot_severe_vs_alco.png" class="responsive-image">
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive HTML File</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 95%;
+            max-width: 1000px; /* Optional: Set a maximum width for content */
+            margin: 0 auto; /* Center the content horizontally */
+            padding: 20px; /* Optional: Add some padding for better readability */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Your HTML content here -->
+        <!-- For example, if you have a problematic HTML file, you can include it here -->
+        <iframe src="contents/correlation_plot_severe_vs_alco_new.html" class="responsive-iframe"></iframe>
+    </div>
+</body>
+</html>
+
