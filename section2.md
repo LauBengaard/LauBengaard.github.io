@@ -47,13 +47,12 @@ From the morning and throughout the day, a clear positive correlation is seen fr
             padding: 0;
         }
         .container {
-            width: 100%;
+            width: 90%;
             max-width: 100%; /* Ensure container stretches to the full width of the viewport */
-            padding: 20px; /* Optional: Add some padding for better readability */
             box-sizing: border-box; /* Include padding in width calculation */
         }
         .responsive-iframe {
-            width: 100%;
+            width: 90%;
             height: 100vh; /* Make the iframe fill the entire viewport height */
             border: none; /* Remove border */
         }
@@ -65,5 +64,34 @@ From the morning and throughout the day, a clear positive correlation is seen fr
         <!-- For example, if you have a problematic HTML file, you can include it here -->
         <iframe src="contents/correlation_plot_severe_vs_alco_new.html" class="responsive-iframe"></iframe>
     </div>
+</body>
+</html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive HTML File</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        .responsive-iframe {
+            width: 100%; /* Make the iframe fill the entire width */
+            max-width: 100%; /* Ensure the iframe doesn't exceed the width of its container */
+            height: 600px; /* Set a fixed height for the iframe */
+            border: none; /* Remove border */
+        }
+    </style>
+</head>
+<body>
+    <iframe src="contents/correlation_plot_severe_vs_alco_new.html" 
+        sandbox="allow-same-origin allow-scripts"
+        class="responsive-iframe"
+        scrolling="no"
+        seamless="seamless"
+        frameborder="0">
+    </iframe>
 </body>
 </html>
