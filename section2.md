@@ -29,7 +29,7 @@ From the morning and throughout the day, a clear positive correlation is seen fr
 
 <style>
     .responsive-image {
-        max-width: 80%;
+        max-width: 95%;
         height: auto;
     }
 </style>
