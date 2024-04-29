@@ -47,10 +47,15 @@ From the morning and throughout the day, a clear positive correlation is seen fr
             padding: 0;
         }
         .container {
-            width: 95%;
-            /*max-width: 1000px; Optional: Set a maximum width for content */
-            margin: 0 auto; /* Center the content horizontally */
+            width: 100%;
+            max-width: 100%; /* Ensure container stretches to the full width of the viewport */
             padding: 20px; /* Optional: Add some padding for better readability */
+            box-sizing: border-box; /* Include padding in width calculation */
+        }
+        .responsive-iframe {
+            width: 100%;
+            height: 100vh; /* Make the iframe fill the entire viewport height */
+            border: none; /* Remove border */
         }
     </style>
 </head>
@@ -62,4 +67,3 @@ From the morning and throughout the day, a clear positive correlation is seen fr
     </div>
 </body>
 </html>
-
