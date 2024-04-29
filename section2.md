@@ -27,12 +27,17 @@ Below, we see the correlation between all severe injury crashes (normalized) and
 
 From the morning and throughout the day, a clear positive correlation is seen from the best-fit straight line (linear regression). However, when considering the value of R^2, it is apparent that the fit of the linear regression model is only moderate. This means that the number of crashes involving alcohol or drugs only moderately influences the normalized number of severe injury crashes. As many other hourly-dependent factors such as light conditions, road conditions, traffic density, driver alertness, etc., also influence the normalized number of severe injury crashes, a "moderate fit at best" is the expected outcome of a simple linear regression model.
 
+<style>
+    .responsive-iframe {
+        width: 100%;
+        height: auto;
+    }
+</style>
+
 <iframe src="contents/correlation_plot_severe_vs_alco.png"
     sandbox="allow-same-origin allow-scripts"
-    width="800"
     scrolling="no"
     seamless="seamless"
     frameborder="0"
-    style="max-width: 100%;">
+    class="responsive-iframe">
 </iframe>
-
