@@ -36,7 +36,6 @@ From the morning and throughout the day, a clear positive correlation is seen fr
 
 <img src="contents/correlation_plot_severe_vs_alco.png" class="responsive-image">
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -49,7 +48,7 @@ From the morning and throughout the day, a clear positive correlation is seen fr
         }
         .container {
             width: 95%;
-            max-width: 1000px; /* Optional: Set a maximum width for content */
+            /*max-width: 1000px; Optional: Set a maximum width for content */
             margin: 0 auto; /* Center the content horizontally */
             padding: 20px; /* Optional: Add some padding for better readability */
         }
