@@ -36,12 +36,12 @@ As _failed to yield right of way_ remains the most frequent violation type in se
 
 <style>
     .responsive-image {
-        max-width: 100%;
+        max-width: 95%;
         height: auto;
     }
 </style>
 
-<img src="contents/violation_distribution.png" class="responsive-image">
+<img src="contents/violation_distribution_cropped.png" class="responsive-image">
 
 Some of the changes already implemented by Vision Zero include: 
 -  Speed limit changes 
