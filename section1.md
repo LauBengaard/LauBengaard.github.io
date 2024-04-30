@@ -25,7 +25,7 @@ From the graphs, we see a major drop in accidents in 2020, but then a steady inc
 
 <style>
     .responsive-image {
-        max-width: 95%;
+        max-width: 100%;
         height: auto;
     }
 </style>
