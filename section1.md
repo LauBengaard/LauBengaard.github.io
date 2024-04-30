@@ -23,6 +23,15 @@ To look into whether or not Vision Zero already has managed to bring traffic cra
 
 From the graphs, we see a major drop in accidents in 2020, but then a steady increase in the two following years. This suggests that the observed trend is due to Covid-19 rather than the City of Tempe successfully improving the traffic infrastructure and regulations. As a matter of fact, the crashes with fatality has increased every year since 2019 despite the drop of total accidents.
 
+<style>
+    .responsive-image {
+        max-width: 95%;
+        height: auto;
+    }
+</style>
+
+<img src="contents/violation_distribution.png" class="responsive-image">
+
 Some of the changes already implemented by Vision Zero include: 
 -  Speed limit changes 
 -  Intersection improvements
