@@ -1,6 +1,6 @@
 ## 3 When do accidents occur?
 
-For both the police force as well as citizens of Tempe, it is valuable to know _when_ accidents happen. Toggle between the different calendar plots below to see when different types of accidents happen.
+For both the police force as well as citizens of Tempe, it is valuable to know _when_ accidents happen. Toggle between the different calendar plots below to see when different types of accidents happen. 
 
 When we consider _All Traffic Accidents_, we see a significant increase in accidents during rush hours on weekdays. Here, significantly more crashes occur when people commute _from_ work rather than _to_ work. If assuming approximately the same number of people commute to and from work every day, this most likely means that drivers are less attentive in the afternoon. This conclusion fits well with an [investigation](https://injuryfacts.nsc.org/motor-vehicle/overview/crashes-by-time-of-day-and-day-of-week/) carried out by the National Safety Council in 2021, where between 4 p.m. and 7 p.m. was found to be the most dangerous time of the day to be on the road. Different reasons are given for this such as mid-afternoon energy slumps, sending text messages to partners, and general multitasking such as wrapping up the last work calls and emails. You can read more [here](https://www.fleschlawfirm.com/blog/your-afternoon-commute-is-more-dangerous-than-your-morning-drive/).
 
@@ -9,6 +9,9 @@ When considering _Severe Injury Traffic Accidents_ (serious/incapacitating injur
 When considering crashes involving a pedestrian or a cyclist, occurrences are somewhat equally distributed along all hours of the day and all days of the week. No significant trends can observed based on this.
 
 Crashes involving alcohol or drugs primarily occur during nighttime. This is not surprising, as it is in these hours that the alcohol and/or drug consumption of the average person occurs. From the calendar plot it can be seen that just as many crashes occur on weekdays as weekends, with the only major difference being the increased number of crashes between 4 a.m. and 5 a.m. on weekends. This makes sense as people generally are out later on weekends.
+
+> [!NOTE]
+> If the below plot appears distorted, simply zoom out (press ctrl and -) until the calendar plot appears normal.
 
 <iframe src="contents/interactive-calendar-plot.html"
     sandbox="allow-same-origin allow-scripts"
