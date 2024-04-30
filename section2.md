@@ -10,8 +10,13 @@ When considering crashes involving a pedestrian or a cyclist, occurrences are so
 
 Crashes involving alcohol or drugs primarily occur during nighttime. This is not surprising, as it is in these hours that the alcohol and/or drug consumption of the average person occurs. From the calendar plot it can be seen that just as many crashes occur on weekdays as weekends, with the only major difference being the increased number of crashes between 4 a.m. and 5 a.m. on weekends. This makes sense as people generally are out later on weekends.
 
-> [!NOTE]
-> If the below plot appears distorted, simply zoom out (press ctrl and -) until the calendar plot appears normal.
+::: warning
+> NOTE: If the below plot appears distorted, simply zoom out (press ctrl and -) until the calendar plot appears normal.
+:::
+
+::: note
+> NOTE: If the below plot appears distorted, simply zoom out (press ctrl and -) until the calendar plot appears normal.
+:::
 
 <iframe src="contents/interactive-calendar-plot.html"
     sandbox="allow-same-origin allow-scripts"
