@@ -21,7 +21,18 @@ To look into whether or not Vision Zero already has managed to bring traffic cra
     frameborder="0">
 </iframe>
 
-From the graphs, we see a major drop in accidents in 2020, but then a steady increase in the two following years. This suggests that the observed trend is due to Covid-19 rather than the City of Tempe successfully improving the traffic infrastructure and regulations. As a matter of fact, the crashes with fatality has increased every year since 2019 despite the drop of total accidents.
+From the graphs, we see a major drop in accidents in 2020, but then a steady increase in the two following years. This suggests that the observed trend is due to Covid-19 rather than the City of Tempe successfully improving the traffic infrastructure and regulations. As a matter of fact, the crashes with fatality have increased every year since 2019 despite the drop of total accidents.
+
+We therefore take a deeper look at 2019-2022, the years in which the total number of crashes went down, but the fatality rate increased. We broaden the investigation by considering severe injury crashes (including fatal), as opposed to only fatal crashes. Below you can see which driver violation type lead to a severe injury crash. We see that 2019 and 2022 both have just under 100 severe injury crashes, despite the total number of crashes in those two years being 5366 and 3745, respectively. Some of the most noticeable changes between 2019 and 2022 are:
+ - Number of crashes where 'a crosswalk was not used' has more than doubled (sky blue)
+ - Number of crashes where 'traffic signal was disregarded' has doubled (orange)
+ - Number of crashes where a vehicle 'followed too closely' has drastically decreased (brown). This could potentially be due to the decrease in the total traffic volume (see [nation-wide traffic volume trends](https://www.fhwa.dot.gov/policyinformation/travel_monitoring/23octtvt/23octtvt.pdf) by the U.S. Department of Transportation) or because of an increase in technological advancements such as auto-braking or automatic distance control (adaptive cruise control)
+-  Number of crashes involving 'unsafe lane change' has drastically decreased (light blue). This could potentially also be due to an increase in technological advancements such as blind spot detection features.
+
+As _failed to yield right of way_ remains the most frequent violation type in severe injury accidents, we encourage decision-makers to:
+-  Monitor that yield lines (also called shark's teeth) are repainted frequently to improve clarity for drivers
+-  Improve the placement and volume of 'full stop' signs.
+-  Converting more 'duty to yield intersections' to traffic light intersections, roundabouts, or similar.
 
 <style>
     .responsive-image {

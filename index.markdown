@@ -15,5 +15,8 @@ title: Home
 {% include_relative section3.md %}
 
 ***
+**Check out our in debth notebook with more analyses and relections**<br/>
+[In debth notebook](https://github.com/LauBengaard/LauBengaard.github.io/blob/main/project_final.ipynb)
+***
 **Check out other publications from the authors**<br/>
 [Assignment 2](./new.html)
