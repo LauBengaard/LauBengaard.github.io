@@ -42,3 +42,22 @@ As the list above shows, 'Unknown' is the fourth most common violation type, so 
 Intersection type or 'straight'
 
 road condition / light
+
+### 5 Conclusion and recommendations
+
+We have considered crash data from Tempe and looked into some of the early efforts made by project _Vision Zero_. Due to the influence of COVID-19 as well as the modest and very recent infrastructure changes made by the project, we have _not_ been able to identify any clear improvements in road safety as a result of _Vision Zero_.
+
+Based on the above analyses, we have however arrived at a set of recommendations for drivers/pedestrians/cyclists and decision makers, which should improve overall traffic safety in Tempe.
+
+For drivers/pedestrians/cyclists **we recommend to**:
+- Pay extra attention when commuting home in the afternoon and avoid distractions such as mobile phones.
+- Use crosswalks whenever possible and otherwise cross with care.
+- Use public transport or taxis at night to avoid falling into the temptation of drunk driving (on all days of the week)
+- Take extra care in educating and supervising young drivers in the family throughout their 20s.
+
+
+For decision-makers **we recommend to**:
+- Collect data on traffic volume on major roads. This will remove significant bias from the above analyses and allow for better identification of which roads/intersections are most problematic in terms of 'crashes per X volume traffic'.
+- Learn from other Vision Zero projects. Vision Zero was as an example already implemented in 2014 in New York. Tempe could look into which infrastructure and legislation changes proved most effective in other similar cities.
+- Increase fines for speeding as this is the number one cause of crashes
+- Invest heavily in 'duty to yield intersections' as _failed to yield right of way_ causes the most severe injury/fatal crashes. This could include both improving current infrastructure, such as adding full-stop signs in addition to shark-teeth, or changing the intersection type completely.
