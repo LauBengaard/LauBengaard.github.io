@@ -73,4 +73,3 @@ In general it appears that the only areas in which *no* recent crashes have occu
     frameborder="0">
 </iframe>
 
-LOOK into serious injury accidents:
