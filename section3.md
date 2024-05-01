@@ -38,11 +38,6 @@ As the list above shows, 'Unknown' is the fourth most common violation type, so 
     frameborder="0">
 </iframe>
 
-### 4.3 The influence of external conditions
-Intersection type or 'straight'
-
-road condition / light
-
 ### 5 Conclusion and recommendations
 
 We have considered crash data from Tempe and looked into some of the early efforts made by project _Vision Zero_. Due to the influence of COVID-19 as well as the modest and very recent infrastructure changes made by the project, we have _not_ been able to identify any clear improvements in road safety as a result of _Vision Zero_.
