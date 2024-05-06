@@ -1,5 +1,5 @@
 ## 4 What causes accidents?
-At last a closer look at factors causing the accidents on the road, where both characteristics of the drivers and external characteristics such as road infrastructure (e.g. intersection type) and light conditions are looked into. 
+At last a closer look at factors causing the accidents on the road, where both characteristics of the drivers and violation types are looked into. 
 
 ### 4.1 Characterisation of drivers
 First, let us look at characteristics of the drivers regarding age and gender. Below to the left, we see a violin plot of the age distribution for male and female drivers. From this plot it can be seen that the age distribution is similar for both genders, with the majority of drivers involved in trafic accidents being of a younger age (16-25 years old). However, it is difficult to determine whether younger drivers are more frequently involved in accidents due to them constituting the majority of drivers of the roads in general, or due to other reasons (e.g. lack of driving experience, recklessness or other). Additionally, this plot has been generated based on all drivers, regardless of whether they were the primary cause of the accident or not.  
